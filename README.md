@@ -1,2 +1,2 @@
 # Polimorfismo
-Exercico com uso de polimorfismo. 
+Exercicio com uso de polimorfismo. 
